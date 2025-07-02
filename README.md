@@ -55,7 +55,7 @@ Smart manufacturing website designed for industry-grade clarity, storytelling, a
 - 🔗 [LinkedIn](https://linkedin.com/in/gursharancodes)
 - 🐦 [Twitter / X](https://x.com/gursharancodes)   
 - 💼 [Upwork](https://www.upwork.com/freelancers/~01ae92ef0fc20d6294)  
-- 🌍 [Portfolio](https://gursharancodes.com) *(coming soon)*  
+- 🌍 [Portfolio](https://gursharancodes.pages.dev)
 
 ---
 
