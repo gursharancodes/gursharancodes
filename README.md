@@ -1,27 +1,62 @@
-# Hi, I'm Gursharan Singh – Frontend Developer
+# Gursharan Singh / GursharanCodes
+**Frontend Developer**
 
-Welcome to my GitHub! I'm a frontend developer with a passion for building elegant, responsive, and accessible web applications.
+Building modern, scalable, and accessible web applications with a focus on clarity, performance, and real-world problem-solving. I specialize in turning designs and ideas into responsive, component-driven interfaces using React, Tailwind CSS, and modern frontend tooling.
 
-## 🔎 About Me
+---
 
-- 🔭 **Recently Built**: [QuickPDF](https://quickpdf-app.vercel.app) – a fully-featured PDF tool for everyday document tasks  
-- ⚙️ **Tech Stack**: React, Tailwind CSS, JavaScript (ES6+), Firebase, Figma  
-- 🌱 **Currently Learning**: UI animations, advanced state management, and performance optimization  
-- 🛠️ **What I Enjoy**: Designing modern UIs, improving workflows, and building tools that simplify everyday problems  
+### 🧭 About Me  
+I engineer digital experiences that bridge the gap between design and code. With a background in building product-style UIs and client-ready systems, I aim to deliver web applications that are visually refined, structurally scalable, and optimized for user flow and maintainability.
 
-## 🚀 Projects
+Currently working on projects that simulate SaaS dashboards, cloud-integrated forms, and domain-specific platforms in healthcare, manufacturing, and productivity.
 
-Here are a few things I’ve built recently:
+---
 
-- **[QuickPDF]([https://your-link.com](https://quickpdf-app.vercel.app))** – Merge, split, sign, and convert PDFs with a clean and intuitive UI  
-- **Startup Landing Page** – A modern, responsive landing page for product launches  
-- **Multi-Step Form** – A user-friendly form experience with validation and progress tracking  
-- **Admin Dashboard** – A sleek, responsive dashboard UI built with Tailwind CSS  
+### 🛠️ Core Stack & Tools  
+- **Frameworks**: React.js · Vite · Next.js *(coming soon)*  
+- **Styling**: Tailwind CSS · PostCSS · Styled Components  
+- **Integration**: Supabase (DB · Auth · Storage) · EmailJS  
+- **UI/UX Tools**: Framer Motion · Lucide React
+- **DevOps**: Git · Cloudflare Pages · GitHub Actions  
 
-## 🤝 Let’s Connect
+---
 
-- 🌐 **Portfolio**: [gursharancodes.com](https://gursharancodes.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/gursharancodes](https://linkedin.com/in/gursharancodes)  
-- 🐦 **Twitter**: [@gursharancodes](https://x.com/gursharancodes)  
+### 🚀 Selected Projects  
 
-Thanks for visiting – feel free to explore my work or reach out if you’d like to collaborate!
+#### 🔹 [Freelancer Inquiry Form](https://freelancer-inquiry-form.pages.dev)  
+Production-ready multi-step form system with Supabase backend, dynamic field validation, secure file upload, and admin access.  
+**Tech**: React · Zod · React Hook Form · Supabase · Tailwind CSS  
+🔗 [Live Demo](https://freelancer-inquiry-form.pages.dev) · [GitHub](https://github.com/gursharancodes/freelancer-inquiry-form)
+
+---
+
+#### 🔹 [Oracare](https://github.com/gursharancodes/oracare)  
+Responsive dental clinic website with booking form, embedded map, and clean information architecture.  
+**Tech**: React · EmailJS · Tailwind · Lucide  
+🔗 [Live Demo](https://oracare.pages.dev) · [GitHub](https://github.com/gursharancodes/oracare)
+
+---
+
+#### 🔹 [QuickPDF](https://github.com/gursharancodes/quickpdf)  
+Client-side PDF toolkit to merge, split, and compress documents using `pdf-lib`. Designed for utility and speed.  
+**Tech**: React · Tailwind · PDF-lib · Vite  
+🔗 [Live Demo](https://quickpdf.pages.dev) · [GitHub](https://github.com/gursharancodes/quickpdf)
+
+---
+
+#### 🔹 [Prodmast](https://github.com/gursharancodes/prodmast)  
+Smart manufacturing website designed for industry-grade clarity, storytelling, and scalability.  
+**Tech**: React · Tailwind · React Router · Cloudflare Pages  
+🔗 [Live Demo](https://prodmast.pages.dev) · [GitHub](https://github.com/gursharancodes/prodmast)
+
+---
+
+### 🌐 Connect with Me  
+- 🔗 [LinkedIn](https://linkedin.com/in/gursharancodes)  
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01ae92ef0fc20d6294)  
+- 🐦 [Twitter / X](https://x.com/gursharancodes)  
+- 🌍 [Portfolio](https://gursharancodes.com) *(coming soon)*  
+
+---
+
+> *“I don’t just build UIs — I design experiences that scale with clarity, structure, and purpose.”*
